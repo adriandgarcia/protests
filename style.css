@@ -1,0 +1,15 @@
+* {
+	font-family: Georgia,serif;
+}
+
+h2{
+	text-transform: uppercase;
+}
+
+figcaption{
+	color: gray;
+}
+
+h6{
+	color: gray;
+}
